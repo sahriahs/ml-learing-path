@@ -1,1 +1,1 @@
-# ML Learing Path
+# ML Learning Path
